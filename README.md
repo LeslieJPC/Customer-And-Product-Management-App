@@ -112,3 +112,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Leslie
 
 Feel free to reach out for any questions or contributions. Happy coding!
+
+## Note
+This application is a sample project intended for learning and demonstration purposes. It may require further enhancements and testing for production use.
